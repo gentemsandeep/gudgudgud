@@ -1,1 +1,4 @@
 # gudgudgud
+good 
+bad 
+ugly
